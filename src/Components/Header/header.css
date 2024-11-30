@@ -1,0 +1,11 @@
+img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+header h1{
+    margin-left:120px ;
+    margin-top: -80px;
+    color: orange;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
